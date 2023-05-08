@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>徐飞扬SPACE</title>
+  
+  
+  <link href="http://bgk777.github.io/atom.xml" rel="self"/>
+  
+  <link href="http://bgk777.github.io/"/>
+  <updated>2023-05-08T15:03:19.094Z</updated>
+  <id>http://bgk777.github.io/</id>
+  
+  <author>
+    <name>BGK777</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>node.js关于版本遇到的问题</title>
+    <link href="http://bgk777.github.io/2023/05/08/node-js-guan-yu-ban-ben-yu-dao-de-wen-ti/"/>
+    <id>http://bgk777.github.io/2023/05/08/node-js-guan-yu-ban-ben-yu-dao-de-wen-ti/</id>
+    <published>2023-05-08T14:59:48.000Z</published>
+    <updated>2023-05-08T15:03:19.094Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;问题：&quot;&gt;&lt;a href=&quot;#问题：&quot; class=&quot;headerlink&quot; title=&quot;问题：&quot;&gt;&lt;/a&gt;问题：&lt;/h1&gt;&lt;p&gt;在运行npm bulid/npm run</summary>
+        
+      
+    
+    
+    
+    <category term="Node.js" scheme="http://bgk777.github.io/categories/Node-js/"/>
+    
+    
+    <category term="Typora" scheme="http://bgk777.github.io/tags/Typora/"/>
+    
+    <category term="Markdown" scheme="http://bgk777.github.io/tags/Markdown/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>node.js关于版本遇到的问题</title>
+    <link href="http://bgk777.github.io/2023/05/06/node.js-guan-yu-ban-ben-yu-dao-de-wen-ti-x/"/>
+    <id>http://bgk777.github.io/2023/05/06/node.js-guan-yu-ban-ben-yu-dao-de-wen-ti-x/</id>
+    <published>2023-05-06T12:20:00.000Z</published>
+    <updated>2023-05-06T12:37:58.061Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1&gt;问题：&lt;/h1&gt;
+
+&lt;p&gt;在运行npm bulid/npm run dev的时候出现报错”[ERR_OSSL_EVP_UNSUPPORTED]”，如下图：&lt;/p&gt;
+&lt;p&gt;&lt;img</summary>
+        
+      
+    
+    
+    
+    <category term="Node.js" scheme="http://bgk777.github.io/categories/Node-js/"/>
+    
+    
+    <category term="Typora" scheme="http://bgk777.github.io/tags/Typora/"/>
+    
+    <category term="Markdown" scheme="http://bgk777.github.io/tags/Markdown/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>集合</title>
+    <link href="http://bgk777.github.io/2023/05/04/ji-he/"/>
+    <id>http://bgk777.github.io/2023/05/04/ji-he/</id>
+    <published>2023-05-04T13:19:00.000Z</published>
+    <updated>2023-05-06T12:05:00.631Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;1-Java集合框架概述&quot;&gt;&lt;a href=&quot;#1-Java集合框架概述&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="javaSE" scheme="http://bgk777.github.io/categories/javaSE/"/>
+    
+    
+    <category term="Typora" scheme="http://bgk777.github.io/tags/Typora/"/>
+    
+    <category term="Markdown" scheme="http://bgk777.github.io/tags/Markdown/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>个人简历</title>
+    <link href="http://bgk777.github.io/2023/05/04/bgk-shi-xi-jian-li-jian-li-zui-zhong-ban-3.0/"/>
+    <id>http://bgk777.github.io/2023/05/04/bgk-shi-xi-jian-li-jian-li-zui-zhong-ban-3.0/</id>
+    <published>2023-05-04T11:40:00.000Z</published>
+    <updated>2023-05-06T12:05:59.522Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;班-后端工程师（实习）&quot;&gt;&lt;a href=&quot;#班-后端工程师（实习）&quot; class=&quot;headerlink&quot; title=&quot;班**-后端工程师（实习）&quot;&gt;&lt;/a&gt;班**-后端工程师（实习）&lt;/h1&gt;&lt;p&gt; 男/2001.05 </summary>
+        
+      
+    
+    
+    
+    <category term="Markdown" scheme="http://bgk777.github.io/categories/Markdown/"/>
+    
+    
+    <category term="Typora" scheme="http://bgk777.github.io/tags/Typora/"/>
+    
+    <category term="Markdown" scheme="http://bgk777.github.io/tags/Markdown/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>demo</title>
+    <link href="http://bgk777.github.io/2023/05/04/demo/"/>
+    <id>http://bgk777.github.io/2023/05/04/demo/</id>
+    <published>2023-05-04T05:30:14.000Z</published>
+    <updated>2023-05-04T05:30:14.061Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>徐飞扬SPACE</title>
+    <link href="http://bgk777.github.io/2023/05/04/xu-fei-yang-space/"/>
+    <id>http://bgk777.github.io/2023/05/04/xu-fei-yang-space/</id>
+    <published>2023-05-04T04:19:34.000Z</published>
+    <updated>2023-05-04T04:19:34.725Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://bgk777.github.io/2023/05/04/hello-world/"/>
+    <id>http://bgk777.github.io/2023/05/04/hello-world/</id>
+    <published>2023-05-04T04:15:04.224Z</published>
+    <updated>1985-10-26T08:15:00.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
