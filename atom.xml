@@ -6,7 +6,7 @@
   <link href="http://bgk777.github.io/atom.xml" rel="self"/>
   
   <link href="http://bgk777.github.io/"/>
-  <updated>2023-05-08T15:03:19.094Z</updated>
+  <updated>2023-05-09T14:35:56.252Z</updated>
   <id>http://bgk777.github.io/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>offer</title>
+    <link href="http://bgk777.github.io/2023/05/09/offer/"/>
+    <id>http://bgk777.github.io/2023/05/09/offer/</id>
+    <published>2023-05-09T14:33:06.000Z</published>
+    <updated>2023-05-09T14:35:56.252Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/.io//farstOffer-16836428953211.png&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img</summary>
+        
+      
+    
+    
+    
+    <category term="myself" scheme="http://bgk777.github.io/categories/myself/"/>
+    
+    
+    <category term="Typora" scheme="http://bgk777.github.io/tags/Typora/"/>
+    
+    <category term="Markdown" scheme="http://bgk777.github.io/tags/Markdown/"/>
+    
+  </entry>
   
   <entry>
     <title>node.js关于版本遇到的问题</title>
