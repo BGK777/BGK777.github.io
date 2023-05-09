@@ -6,7 +6,7 @@
   <link href="http://bgk777.github.io/atom.xml" rel="self"/>
   
   <link href="http://bgk777.github.io/"/>
-  <updated>2023-05-08T15:03:19.094Z</updated>
+  <updated>2023-05-09T14:05:49.537Z</updated>
   <id>http://bgk777.github.io/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>text</title>
+    <link href="http://bgk777.github.io/2023/05/09/text/"/>
+    <id>http://bgk777.github.io/2023/05/09/text/</id>
+    <published>2023-05-09T14:02:47.000Z</published>
+    <updated>2023-05-09T14:05:49.537Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/.io//$%7Bfiilename%7D/farstOffer.png&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>node.js关于版本遇到的问题</title>
@@ -29,36 +50,6 @@
         
         
     <summary type="html">&lt;h1 id=&quot;问题：&quot;&gt;&lt;a href=&quot;#问题：&quot; class=&quot;headerlink&quot; title=&quot;问题：&quot;&gt;&lt;/a&gt;问题：&lt;/h1&gt;&lt;p&gt;在运行npm bulid/npm run</summary>
-        
-      
-    
-    
-    
-    <category term="Node.js" scheme="http://bgk777.github.io/categories/Node-js/"/>
-    
-    
-    <category term="Typora" scheme="http://bgk777.github.io/tags/Typora/"/>
-    
-    <category term="Markdown" scheme="http://bgk777.github.io/tags/Markdown/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>node.js关于版本遇到的问题</title>
-    <link href="http://bgk777.github.io/2023/05/06/node.js-guan-yu-ban-ben-yu-dao-de-wen-ti-x/"/>
-    <id>http://bgk777.github.io/2023/05/06/node.js-guan-yu-ban-ben-yu-dao-de-wen-ti-x/</id>
-    <published>2023-05-06T12:20:00.000Z</published>
-    <updated>2023-05-06T12:37:58.061Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1&gt;问题：&lt;/h1&gt;
-
-&lt;p&gt;在运行npm bulid/npm run dev的时候出现报错”[ERR_OSSL_EVP_UNSUPPORTED]”，如下图：&lt;/p&gt;
-&lt;p&gt;&lt;img</summary>
         
       
     
