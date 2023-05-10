@@ -477,7 +477,7 @@
                 
                 <div class="info-break-policy">
                     <i class="far fa-file-word fa-fw"></i>文章字数:&nbsp;&nbsp;
-                    6.3k
+                    6.2k
                 </div>
                 
 
@@ -538,7 +538,7 @@
 <pre class="line-numbers language-java" data-language="java"><code class="language-java"><span class="token operator">|</span><span class="token operator">--</span><span class="token operator">--</span><span class="token class-name">HashMap</span>、<span class="token class-name">LinkedHashMap</span>、<span class="token class-name">TreeMap</span>、<span class="token class-name">Hashtable</span>、<span class="token class-name">Properties</span><span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>
 
 <p><strong>图示：Collection接口继承树</strong></p>
-<p><img src="imgs/image.png" alt="image.png"></p>
+<p><img src="imgs/image.png"></p>
 <p><strong>图示：Map接口继承树</strong></p>
 <h1 id="2-Collection接口"><a href="#2-Collection接口" class="headerlink" title="2.Collection接口"></a>2.Collection接口</h1><h2 id="1-Collection接口中的方法的使用"><a href="#1-Collection接口中的方法的使用" class="headerlink" title="1.Collection接口中的方法的使用"></a>1.Collection接口中的方法的使用</h2><p>1、添加 </p>
 <p>   <strong>add(Object obj)</strong> </p>
@@ -554,7 +554,7 @@
 <p>   **boolean containsAll(Collection c)**：也是调用元素的equals方法来比 较的。拿两个集合的元素挨个比较。</p>
 <p>6、删除 </p>
 <p>   <strong>boolean remove(Object obj)</strong> ：通过元素的equals方法判断是否是 要删除的那个元素。只会删除找到的第一个元素 </p>
-<p>  ![image.png](imgs/image 1.png)</p>
+<p>  ![](imgs/image 1.png)</p>
 <p>   **boolean removeAll(Collection coll)**：取当前集合的差集 </p>
 <p>7、取两个集合的交集 </p>
 <p>   **boolean retainAll(Collection c)**：把交集的结果存在当前集合中，不 影响c </p>
@@ -727,7 +727,7 @@ coll1<span class="token punctuation">.</span><span class="token function">add</s
             <span class="token class-name">System</span><span class="token punctuation">.</span>out<span class="token punctuation">.</span><span class="token function">println</span><span class="token punctuation">(</span>iterator<span class="token punctuation">.</span><span class="token function">next</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
         <span class="token punctuation">}</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>
 
-<p>![image.png](imgs/image 2.png)</p>
+<p>![](imgs/image 2.png)</p>
 <ul>
 <li><strong>注意</strong>：在调用it.next()方法之前必须要调用it.hasNext()进行检测。若不调用，且 下一条记录无效，直接调用it.next()会抛NoSuchElementException异常。</li>
 </ul>
@@ -757,7 +757,7 @@ while(iter.hasNext()){
 <li><p>格式</p>
 </li>
 </ul>
-<p>![image.png](imgs/image 3.png)</p>
+<p>![](imgs/image 3.png)</p>
 <ul>
 <li>代码实现</li>
 </ul>
@@ -1002,8 +1002,8 @@ public void test1(){
 
     }<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre></li>
 </ul>
-<p>![image.png](imgs/image 4.png)</p>
-<p>![image.png](imgs/image 5.png)</p>
+<p>![](imgs/image 4.png)</p>
+<p>![](imgs/image 5.png)</p>
 <p>2.两种排序方式：<strong>自然排序（实现Comparable接口）</strong> 和 <strong>定制排序（Comparator）</strong></p>
 <ul>
 <li>自然排序（实现Comparable接口）</li>
@@ -1045,7 +1045,7 @@ public void test1(){
     }
 }<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre></li>
 </ul>
-<p>![image.png](imgs/image 6.png)</p>
+<p>![](imgs/image 6.png)</p>
 <pre class="line-numbers language-java" data-language="java"><code class="language-java">
 <span class="token number">3.</span>自然排序中，比较两个对象是否相同的标准为：<span class="token operator">*</span><span class="token operator">*</span><span class="token function">compareTo</span><span class="token punctuation">(</span><span class="token punctuation">)</span>返回<span class="token number">0.</span>不再是<span class="token function">equals</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">.</span>*<span class="token operator">*</span>
 
@@ -1197,9 +1197,9 @@ map<span class="token punctuation">.</span><span class="token function">put</spa
 
 
 
-<p>![image.png](imgs/image 7.png)</p>
-<p>![image.png](imgs/image 8.png)</p>
-<p>![image.png](imgs/image 9.png)</p>
+<p>![](imgs/image 7.png)</p>
+<p>![](imgs/image 8.png)</p>
+<p>![](imgs/image 9.png)</p>
 <p>五、Map中定义的方法：<br>添加、删除、修改操作：</p>
 <p>  <strong>Object put(Object key,Object value)：将指定key-value添加到(或修改)当前map对象中</strong><br>void putAll(Map m):将m中的所有key-value对存放到当前map中<br><strong>Object remove(Object key)：移除指定key的key-value对，并返回value</strong><br>void clear()：清空当前map中的所有数据</p>
 <p>元素查询的操作：</p>
@@ -1249,7 +1249,7 @@ map<span class="token punctuation">.</span><span class="token function">put</spa
 </li>
 </ul>
 <p>代码示例：</p>
-<p>![image.png](imgs/image 10.png)</p>
+<p>![](imgs/image 10.png)</p>
 <h2 id="5-Collections工具类"><a href="#5-Collections工具类" class="headerlink" title="5.Collections工具类"></a>5.Collections工具类</h2><ul>
 <li>Collections:操作<strong>Collection、Map的工具类</strong></li>
 </ul>
@@ -1814,7 +1814,7 @@ map<span class="token punctuation">.</span><span class="token function">put</spa
             <br>
             
             &nbsp;<i class="fas fa-chart-area"></i>&nbsp;站点总字数:&nbsp;<span
-                class="white-color">7.3k</span>&nbsp;字
+                class="white-color">7.2k</span>&nbsp;字
             
             
             
